@@ -10,3 +10,5 @@ But I had given it so much that I just couldn't throw it away and move on. So I 
 ### What is Project Basalt?
 
 Basalt is a federated, trustless, self-healing network routing architecture designed to protect critical internet infrastructure. By combining real-time, physical-layer hardware diagnostics with Secure Multi-Party Computation (SMPC) and zero-knowledge cryptography, it allows competing Internet Service Providers (ISPs) and Autonomous Systems (ASNs) to collaboratively defend against network failures and routing exploits without ever exposing their proprietary or sensitive data to one another.
+
+Find out more about it in the [Wiki Section](https://github.com/Eskender-Assefa/Project-Basalt/wiki)!
