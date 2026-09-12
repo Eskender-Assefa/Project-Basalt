@@ -9,5 +9,5 @@ The structure of this folder is as follows:
 3. [Expanding on the problem statement](https://github.com/Eskender-Assefa/Project-Basalt/blob/main/Product%20Strategy/Expanding%20on%20the%20problem%20statement.md)
 4. [The Market Alternatives](https://github.com/Eskender-Assefa/Project-Basalt/blob/main/Product%20Strategy/The%20Market%20Alternatives.md)
 5. [Defining the Product/Solution](https://github.com/Eskender-Assefa/Project-Basalt/blob/main/Product%20Strategy/Defining%20The%20Product.md)
-6. [Designing the System Architecture]
+6. [Designing the System Architecture](https://github.com/Eskender-Assefa/Project-Basalt/tree/main/System%20Architecture)
 
