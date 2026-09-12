@@ -5,7 +5,7 @@ Here, I have created a detailed walkthrough of the my entire project/product dev
 The structure of this wiki is as follows:
 
 1. [The essence of the project (Short Summary)](https://github.com/Eskender-Assefa/Project-Basalt/blob/main/Product%20Strategy/Short%20Summary.md)
-2. [Understanding the stakeholders]
+2. [Understanding the stakeholders](https://github.com/Eskender-Assefa/Project-Basalt/blob/main/Product%20Strategy/Understanding%20The%20Stakeholders.md)
 3. [Expanding on the problem statement]
 4. [The Market Alternatives]
 5. [Defining the Product/Solution]
